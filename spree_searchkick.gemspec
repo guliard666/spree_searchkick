@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'searchkick'
-  s.add_dependency 'spree_core', '>= 3.1.0', '< 4.0'
+  s.add_dependency 'spree_core', '>= 3.1.0', '< 4.11'
 
   s.add_development_dependency 'better_errors'
   s.add_development_dependency 'binding_of_caller'
